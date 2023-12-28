@@ -1,0 +1,9 @@
+{
+	"name": "ADF-cloudacademy",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5893e028-0b22-4616-85cc-be640de20503",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
